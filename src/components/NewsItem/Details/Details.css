@@ -1,0 +1,27 @@
+.details {
+  margin-bottom: 15px;
+  background-color: #F8F9FA; 
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #DADADA;
+}
+
+.summary {
+  color: rgb(247, 22, 22); 
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.channel,
+.published {
+  color: #555; 
+  margin-bottom: 3px;
+  margin-top: 4px;
+  font-size: 13px;
+}
+
+.channel > span,
+.published > span {
+  font-weight: 700;
+  color: #333;
+}
