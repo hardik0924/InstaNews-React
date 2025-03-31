@@ -23,7 +23,7 @@ Insta News delivers real-time news updates instantly, just like social media pro
 ---
 
 ## 🚀 Live Demo  
-🔗 **[InstaNews on Netlify](https://insta-news-react-project.netlify.app/)**  
+🔗 **[InstaNews on Netlify]([https://insta-news-react-project.netlify.app/](https://insta-news-react-by-hardik.netlify.app/))**  
 
 ---
 
